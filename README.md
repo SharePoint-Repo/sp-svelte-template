@@ -1,4 +1,4 @@
-# sp-svelte app
+# SharePoint svelte app template
 Opinionated SharePoint starter template for [sveltejs](https://github.com/sveltejs) client-side Javascript development. 
 This project uses [sveltejs](https://github.com/sveltejs), [rollup](https://github.com/rollup), [sp-rest-proxy](https://github.com/koltyakov/sp-rest-proxy), [@pnp/sp](https://pnp.github.io/pnpjs/sp/), and [babel](https://github.com/babel/babel), among other packages. 
 
@@ -9,7 +9,7 @@ This is a project template for [Svelte](https://svelte.dev) apps. It lives at ht
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit sp-sveltejs/template sp-svelte-app
+npx degit sp-sveltejs/sp-svelte-template sp-svelte-app
 cd sp-svelte-app
 ```
 
